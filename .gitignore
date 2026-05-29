@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+
+build/
+dist/
+dist_final/
+*.spec
+*.msix
+
+.env
+.venv/
+venv/
