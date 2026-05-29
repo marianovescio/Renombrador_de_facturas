@@ -19,3 +19,6 @@ compilar_exe.bat
 
 Los ejecutables se generan en `dist_final/`.
 
+## Instalador de Python
+
+El archivo `python-manager-26.1.msix` queda incluido como respaldo para equipos donde no haya Python instalado.

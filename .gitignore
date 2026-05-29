@@ -5,7 +5,6 @@ build/
 dist/
 dist_final/
 *.spec
-*.msix
 
 .env
 .venv/
